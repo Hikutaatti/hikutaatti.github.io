@@ -24,5 +24,6 @@
 
 
 > [!IMPORTANT]
-> Check out this amazing tool to build easy websites like this one: [GitHub Pages](https://pages.github.com/).
+> Check out this amazing tool to build easy websites like this one
+[GitHub Pages](https://pages.github.com/).
 

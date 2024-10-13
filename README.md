@@ -23,6 +23,6 @@
 [x] Atleast we have a cute frog
 
 
->![IMPORTANT]
+> [!IMPORTANT]
 >Check out this amazing tool to build easy websites like this one:[GitHub Pages](https://pages.github.com/).
 

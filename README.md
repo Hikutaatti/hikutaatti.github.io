@@ -20,9 +20,9 @@
 
 [] We should add a live messagin section...
 [] Is this a proper website yet?
-[x] Atleast we have a cute frog
+[x] Atleast we have a cute frog :+1:
 
 
 > [!IMPORTANT]
->Check out this amazing tool to build easy websites like this one:[GitHub Pages](https://pages.github.com/).
+>Check out this amazing tool to build easy websites like this one: [GitHub Pages](https://pages.github.com/).
 
